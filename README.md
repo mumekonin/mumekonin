@@ -1,6 +1,6 @@
 About Me<br><br>I am a 3rd-year Information Technology student at Jimma University with a strong passion for web development, especially in full-stack development. I enjoy building scalable, modern, and user-friendly web applications using the latest technologies.<br><br>I am organized, detail-oriented, and always eager to learn new tools and frameworks that improve my skills and help deliver high-quality projects.
 
-<img src="https://png.pngtree.com/background/20250128/original/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-picture-image_16247383.jpg"/>
+<img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="300px"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jo_30_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mulualem-mekonin-0b399a345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mulualemmekonin0@gmail.com) 
