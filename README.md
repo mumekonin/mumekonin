@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="280px"/>
-
   # Hi there, I'm Mulualem Mekonin 👋
 
   <p>A 3rd-year Information Technology student at <strong>Jimma University</strong> passionate about building scalable, modern, and user-friendly full-stack web applications.</p>
