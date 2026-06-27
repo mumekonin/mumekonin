@@ -1,5 +1,5 @@
 <div align="center">
-  # Hi there, I'm Mulualem Mekonin 👋
+   Hi there, I'm Mulualem Mekonin 👋
 
   <p>A 3rd-year Information Technology student at <strong>Jimma University</strong> passionate about building scalable, modern, and user-friendly full-stack web applications.</p>
 
@@ -76,6 +76,4 @@
 <div align="center">
   <i>Let's connect and build something great together! 🚀</i>
 </div>
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=mumekonin&label=Total+Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</div>
+
