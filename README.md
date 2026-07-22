@@ -1,10 +1,10 @@
 <div align="center">
    Hi there, I'm Mulualem Mekonin 👋
+  <p>A 4th-year Information Technology student at <strong>Jimma University</strong> passionate about building scalable, modern, and user-friendly full-stack web applications.</p>
 
-  <p>A 3rd-year Information Technology student at <strong>Jimma University</strong> passionate about building scalable, modern, and user-friendly full-stack web applications.</p>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;%F0%9F%9B%A0%EF%B8%8F)
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Developer;%F0%9F%9B%A0%EF%B8%8F)
-
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://myportfolio.mulualemmekonin0.workers.dev/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jo_30_17)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulualem-mekonin-0b399a345)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mulualemmekonin0@gmail.com)
@@ -13,11 +13,11 @@
 ---
 
 ## 👨‍💻 About Me
-
 - 🎓 3rd-year **IT student** at Jimma University
 - 🌱 Currently learning **Full-Stack Development** — frontend to backend
 - 💡 Passionate about building clean, scalable, and user-focused applications
 - 📚 Always exploring new tools and frameworks to sharpen my skills
+- 🌐 Check out my **[Portfolio](https://myportfolio.mulualemmekonin0.workers.dev/)** to see my projects in action
 
 ---
 
@@ -56,9 +56,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumekonin&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mumekonin&theme=nightowl&hide_border=false)
-
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mumekonin&theme=nightowl&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mumekonin&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
@@ -76,4 +74,3 @@
 <div align="center">
   <i>Let's connect and build something great together! 🚀</i>
 </div>
-
