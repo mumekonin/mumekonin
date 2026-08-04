@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 3rd-year **IT student** at Jimma University
+- 🎓 4th-year **IT student** at Jimma University
 - 🌱 Currently learning **Full-Stack Development** — frontend to backend
 - 💡 Passionate about building clean, scalable, and user-focused applications
 - 📚 Always exploring new tools and frameworks to sharpen my skills
