@@ -13,10 +13,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 4th-year **IT student** at Jimma University
-- 🌱 Currently learning **Full-Stack Development** — frontend to backend
-- 💡 Passionate about building clean, scalable, and user-focused applications
-- 📚 Always exploring new tools and frameworks to sharpen my skills
+-  4th-year **IT student** at Jimma University
+-  Currently learning **Full-Stack Development** frontend to backend
+-  Passionate about building clean, scalable, and user-focused applications
+-  Always exploring new tools and frameworks to sharpen my skills
 - 🌐 Check out my **[Portfolio](https://myportfolio.mulualemmekonin0.workers.dev/)** to see my projects in action
 
 ---
