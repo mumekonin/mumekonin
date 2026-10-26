@@ -2,11 +2,22 @@
   <img src="https://komarev.com/ghpvc/?username=mumekonin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-- 4th-year **IT student** at Jimma University
-- Currently learning **Full-Stack Development** frontend to backend
-- Passionate about building clean, scalable, and user-focused applications
-- Always exploring new tools and frameworks to sharpen my skills
-- 🌐 Check out my **[Portfolio](https://myportfolio.mulualemmekonin0.workers.dev/)** to see my projects in action
+<table>
+  <tr>
+    <td valign="middle">
+      <ul>
+        <li>4th-year <b>IT student</b> at Jimma University</li>
+        <li><b>Full-Stack Developer</b> building from frontend to backend</li>
+        <li>Passionate about building clean, scalable, and user-focused applications</li>
+        <li>Always exploring new tools and frameworks to sharpen my skills</li>
+        <li>🌐 Check out my <b><a href="https://myportfolio.mulualemmekonin0.workers.dev/">Portfolio</a></b> to see my projects in action</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://wallpapercave.com/wp/wp14907704.webp" alt="Coding" width="300" />
+    </td>
+  </tr>
+</table>
 
 <h3>Languages and Tools:</h3>
 
