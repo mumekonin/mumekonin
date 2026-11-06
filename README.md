@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=mumekonin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+
 
 <table>
   <tr>
