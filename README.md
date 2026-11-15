@@ -8,7 +8,7 @@
         <li><b>Full-Stack Developer</b> building from frontend to backend</li>
         <li>Passionate about building clean, scalable, and user-focused applications</li>
         <li>Always exploring new tools and frameworks to sharpen my skills</li>
-        <li>🌐 Check out my <b><a href="https://myportfolio.mulualemmekonin0.workers.dev/">Portfolio</a></b> to see my projects in action</li>
+        <li>🌐 Check out my <b><a href="https://mulualem-mekonin.vercel.app/">Portfolio</a></b> to see my projects in action</li>
       </ul>
     </td>
     <td valign="middle" align="center">
